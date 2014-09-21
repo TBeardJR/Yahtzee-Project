@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: schoolWork/SplashDemo
+SplashScreen-Image: resources/splash_screen_tes_ picture.gif
